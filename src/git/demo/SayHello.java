@@ -6,6 +6,8 @@ public class SayHello {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello");
+		EvenNumbers.printEvenNumber(10);
+		OddNumbers.printOddNumber(10);
 
 	}
 
